@@ -13,7 +13,7 @@ import java.util.Arrays;
 import java.util.Date;
 import java.util.List;
 
-public class syTest1 {
+public class biao51 {
     public static void main(String[] args) throws IOException {
         File folder = new File("D://杂物//测试数据//复杂图形");
         String[] s = folder.list();
