@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-public class biao41 {
+public class biao52 {
 
     public static List<Point2D> test(List<Point2D> list){
         List<Point2D> res = new ArrayList<>();
